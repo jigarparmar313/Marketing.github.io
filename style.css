@@ -26,7 +26,7 @@ body
     width: 1024px;
     height: auto;
     margin: auto;
-    background-image: url(bg-original.jpg);
+    background-image: url(img/bg-original.jpg);
     min-height: 357px;
 }
 .icon 
@@ -92,7 +92,7 @@ body
 }
 
 .line_img{
-    background-image: url(line.png);
+    background-image: url(img/line.png);
     width: 40px;
     height: 2px;
 }
