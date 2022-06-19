@@ -1,0 +1,121 @@
+body
+{
+    margin:0px ;
+    padding: 50px;
+    font-family: Montserrat;
+}
+@font-face {
+    font-family: Montserrat;
+    src: url(font/Montserrat-Regular.ttf);
+  }
+
+  @font-face {
+    font-family: Montserrat-extrabold;
+    src: url(font/Montserrat-ExtraBold.ttf
+    );
+  }
+
+
+  section
+  {
+      float: left;
+      width: 100%;
+  }
+.main
+{
+    width: 1024px;
+    height: auto;
+    margin: auto;
+    background-image: url(bg-original.jpg);
+    min-height: 357px;
+}
+.icon 
+{
+    float: left;
+}
+.icon ul
+{
+    padding: 0px;
+    margin: 0px;
+}
+.icon ul li 
+{
+    float: left;
+    list-style: none;
+}
+.icon ul li a {
+    float: left;
+    /* color: #000; */
+    padding: 4px;
+    /* background: #f2bc1c; */
+    margin: 2px;
+    border-radius: 25px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.leftsite {
+    float: left;
+    margin-top: 45px;
+    margin-left: 45px;
+}
+
+.icon_area {
+    float: left;
+    width: 100%;
+}
+
+.banner_title h1 {
+    color: #fff;
+    font-size: 30pt;
+    text-transform: uppercase;
+    margin-top: 45px ;
+    font-family: Montserrat-extrabold;
+}
+
+.banner_title h2 {
+    color: #fff;
+    font-size: 31px;
+    text-transform: uppercase;
+    color: #fecb00;
+    margin-top: -36px;
+    width: 100%;
+    font-family: Montserrat-extrabold;
+    /* height: 26px;     */
+}
+
+
+.icontext{
+    margin-top: 5.8px;
+    color: whitesmoke;
+}
+
+.line_img{
+    background-image: url(line.png);
+    width: 40px;
+    height: 2px;
+}
+
+.banner_content{
+    font-size: 14px;
+    color: whitesmoke;
+    
+}
+
+.btn button{
+    background-color: #f2bc1c;
+    border: none;
+    border-radius: 3px;
+    margin-top: 11px;    
+    font-size: 10px;
+    font: bold;
+}
+
+.website h4{
+    color: whitesmoke;
+    margin-top: 8px;
+    font-size: 10px;
+    letter-spacing: 1px;
+    
+}
